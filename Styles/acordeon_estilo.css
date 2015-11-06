@@ -1,0 +1,45 @@
+*{
+	font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+	height: 100%;
+	width: 100%;
+	background-color: #1E1E1E;
+}
+
+#header>h2{
+	color: white;
+	text-align: center;
+}
+body>button{
+	margin-top: 10%;
+	width: 30%;
+	height: 10%;
+	font-weight: 700;
+	margin-left: 35%;
+	background-color: #21CFD3;
+	border: none;
+	border-radius: 3px;
+}
+
+#new{
+	height: 40%;
+	width: 90%;
+	margin-left: 5%;
+	background-color: #4D4D4D;
+	border: none;
+	border-radius: 3px;
+}
+
+#acordeones{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	height: 40%;
+	width: 90%;
+	margin-left: 5%;
+	background-color: #4D4D4D;
+}
